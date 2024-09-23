@@ -1,3 +1,5 @@
+# Laws and Understanding
+
 This Semester I learned about different laws that help to dictate the way that circuits work and help to create functioning designs or prototypes with lessened accidents or burned out LED/Burst capacitors.
 
 The first law that we learned about is Kirchhoff's law, this law states that 
@@ -9,17 +11,17 @@ This semester I was able to engrain this law into my prototypes by using more re
 
 This can be seen in comparison from my Analog circuit compared to my original prototypes for past projects. Within these designs I made little to no attempt to adjust the input current meaning that the circuits were ineffective and would likely have issues with each component as the components aren't designed to have that much voltage entering them.
 
-Exhibit A
+### Exhibit A
 
 <img width="957" alt="Exhibit A" src="https://github.com/user-attachments/assets/dd821dfd-026a-40a8-8959-3b5be9ffb206">
 
-Exhibit B
+### Exhibit B
 
 <img width="1036" alt="Exhibit B" src="https://github.com/user-attachments/assets/dda4add7-4330-4ee1-a6d8-6bea173d0607">
 
 However during this semester I've developed to having effective resistor usage and managing voltage input meaning I'm able to create more effective designs. An example of this is the Analog circuit below.
 
-Exhibit C (Analog Circuit)
+### Exhibit C (Analog Circuit)
 
 <img width="988" alt="Exhibit C" src="https://github.com/user-attachments/assets/8ef5f453-6d1f-4469-87a5-a295a093d6ad">
 
