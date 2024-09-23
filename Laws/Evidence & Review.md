@@ -4,6 +4,7 @@ This Semester I learned about different laws that help to dictate the way that c
 
 The first law that we learned about is Kirchhoff's law, this law states that 
 > "The algebraic sum of all the voltages around any closed loop in a circuit is equal to zero."
+
 This basically says that the amount of energy that enters a circuit will be the same amount leaving the circuit, as when energy cant be created or destroyed.
 However energy can change forms, this comes into effect within circuits when too much energy is put into a circuit, if you are putting too much energy into a circuit or not enough energy the amount of voltage will not raise or lower on its own to adjust to the resistance of the different components.
 
